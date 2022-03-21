@@ -1,6 +1,6 @@
 # Basic Hello World Chrome Extension
 
-Check out my blogpost [here](https://coderlens.hashnode.dev/simple-chrome-extension) to learn about how it's developed
+## [Blog tutorial](https://coderlens.hashnode.dev/simple-chrome-extension)
 
 ![2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631204484251/UpUgOMaZU.png)
 
